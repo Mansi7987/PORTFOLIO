@@ -47,12 +47,15 @@ portfolio/
 ├── images/ # Project images and assets
 ├── README.md # Project documentation
 
-🧑‍💻 About Me
+
+🧑‍💻 About Me:
+
 I'm Mansi Sengar, a passionate web developer with a keen eye for design and detail. I love creating beautiful and functional websites that provide great user experiences. This portfolio reflects my journey and dedication to coding and problem-solving.
 
 📬 Get in Touch : 
 Feel free to connect with me.
 
-⭐ Support / Contributions
+⭐ Support / Contributions 
+
 This portfolio is a personal project, but if you find any bugs or want to suggest improvements, feel free to open an issue or submit a pull request.
 
